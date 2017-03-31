@@ -18,7 +18,7 @@ var (
 	EndpointSmActive   = EndpointSm + "active.json"
 	EndpointSmUpcoming = EndpointSm + "upcoming.json"
 
-	EndpointDiscord  = "https://discordapp.com/"
+	EndpointDiscord  = "https://staging.discord.co/"
 	EndpointAPI      = EndpointDiscord + "api/"
 	EndpointGuilds   = EndpointAPI + "guilds/"
 	EndpointChannels = EndpointAPI + "channels/"
